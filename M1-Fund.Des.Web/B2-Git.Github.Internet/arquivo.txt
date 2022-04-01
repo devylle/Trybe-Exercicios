@@ -1,3 +1,14 @@
+
 Nos proximos blocos que ja estao rolando, vou aprender a fazer paginas 
 com HTML e CSS.
 Nao vejo a hora de chegar nessa parte...
+Para este exercicio do github de criar branchs esta sendo necessario:
+muita paciencia
+muita resiliencia
+muita persistencia
+alguma comunicacao, porque ontem mesmo eu consegui resolver um problema
+que vinha tentando sozinha a uns tres dias
+com ajuda resolvi em 15 minutos
+acho que preciso pedir ajuda mais rapido das proximas vezes
+isso vai fazer com que o curso flua melhor e eu nao fique atrasada com os 
+conteudos e exercicios.
