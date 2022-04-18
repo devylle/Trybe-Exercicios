@@ -1,0 +1,25 @@
+div:hover{
+    border: 5px solid salmon;
+}
+#primaria {
+    background-color: red;
+    font-style: italic;
+}
+#secundaria {
+    background-color: green;
+}
+#complementar{
+    background-color: gray;
+    font-size: xx-large;
+    font-style: italic;
+}
+#escura{
+    background-color: darkblue;
+}
+#clara{
+    background-color: antiquewhite;
+    font-style: italic;
+}
+h3{
+    text-decoration-line: underline;
+}
