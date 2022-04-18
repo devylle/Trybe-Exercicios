@@ -1,0 +1,55 @@
+img{
+    width: 500px;
+    display: inline-block;
+    
+}
+article{
+    text-align: justify;
+    padding: 50px;
+    }
+
+
+body{
+    background-color: azure;
+}
+
+h1{
+    padding: 30px;
+    text-align: center;
+}
+
+.texto{
+    display: inline-block;
+    width: 63%;
+    margin-left: 30px;
+    
+}
+
+h4{
+    background-color: aqua;
+    padding: 30px;
+    text-align: center;
+    font-size: 22px;
+}
+
+h1{
+    background-color: aqua;
+    border: 5px solid skyblue;
+    padding: 30px;
+}
+
+.nav{
+    display: inline;
+    padding: 30px;
+}
+
+aside{
+    text-align: right;
+    margin-top: 50px;
+}
+
+h2, h3 {
+    text-align: justify;
+    font-size: 30px;
+    margin-left: 40px;
+}
